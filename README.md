@@ -32,5 +32,15 @@
 
 
 
+### :deciduous_tree:2021/1/11-2021/1/17(2021/1/17 휴일):deciduous_tree:
+
+
+
+1. 알고리즘 스터디
+2. spring boot 공부 
+3. 정처기 공부 시작
+
+
+
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
