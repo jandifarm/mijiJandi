@@ -62,5 +62,14 @@
 
 
 
+### :deciduous_tree:2021/1/31-2021/2/6(2021/2/6 휴일):deciduous_tree:
+
+
+
+1. 알고리즘 스터디
+2. Spring Framework 공부 
+3. 쿠버네티스...
+
+
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
