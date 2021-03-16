@@ -115,6 +115,14 @@
 2. 포트폴리오 정리
 3. 자소서 
 
+### :deciduous_tree:2021/3/14-2021/3/20(2021/3/19 휴일):deciduous_tree:
+
+
+
+1. 알고리즘 스터디
+2. 포트폴리오 정리
+3. 자소서 
+
 
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
