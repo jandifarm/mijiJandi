@@ -131,13 +131,21 @@
 2. 자소서
 3. 정처기 공부 계획대로  
 
-### :deciduous_tree:2021/3/28-2021/4/6(2021/4/5 휴일):deciduous_tree:
+### :deciduous_tree:2021/3/28-2021/4/3(2021/4/3 휴일):deciduous_tree:
 
 
 
 1. 알고리즘 스터디
 2. 포트폴리오 
 3. 정처기 공부 계획대로  
+
+### :deciduous_tree:2021/4/4-2021/4/10(2021/4/10 휴일):deciduous_tree:
+
+
+
+1. 정처기....
+2. 포트폴리오 & 자소서 작성
+3. 알고리즘 & 새로운 개인플젝 시작...?
 
 
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
