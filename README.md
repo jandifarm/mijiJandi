@@ -148,5 +148,14 @@
 3. 알고리즘 & 새로운 개인플젝 시작...?
 
 
+### :deciduous_tree:2021/4/11-2021/4/17(2021/4/17 휴일):deciduous_tree:
+
+
+
+1. 정처기....
+2. 자소서
+3. 정처기 지입주웅!!!!
+
+
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
