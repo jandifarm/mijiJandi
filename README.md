@@ -156,6 +156,13 @@
 2. 자소서
 3. 정처기 지입주웅!!!!
 
+### :deciduous_tree:2021/4/18-2021/4/24(2021/4/24 휴일):deciduous_tree:
+
+
+
+1. 정처기 막판 스퍼트
+2. 자소서
+
 
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
