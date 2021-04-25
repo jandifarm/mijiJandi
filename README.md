@@ -163,6 +163,13 @@
 1. 정처기 막판 스퍼트
 2. 자소서
 
+### :deciduous_tree:2021/4/25-2021/5/1(2021/5/1 휴일):deciduous_tree:
+
+
+
+1. 알고리즘 풀기
+2. Notion 
+
 
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
