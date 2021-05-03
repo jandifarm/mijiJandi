@@ -170,6 +170,14 @@
 1. 알고리즘 풀기
 2. Notion 
 
+### :deciduous_tree:2021/5/2-2021/5/8(2021/5/8 휴일):deciduous_tree:
+
+
+
+1. 이사준비
+2. 알고리즘 문제 한문제라도 풀어보자...
+3. 미라클모닝??.. 
+
 
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
