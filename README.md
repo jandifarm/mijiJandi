@@ -178,6 +178,14 @@
 2. 알고리즘 문제 한문제라도 풀어보자...
 3. 미라클모닝??.. 
 
+### :deciduous_tree:2021/5/9-2021/5/15(2021/5/15 휴일):deciduous_tree:
+
+
+
+1. 이사짐 정리
+2. 닷넷 MVC 패턴 공부
+3. 미라클모닝??.. 
+
 
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
