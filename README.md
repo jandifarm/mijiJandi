@@ -187,5 +187,14 @@
 3. 미라클모닝??.. 
 
 
+### :deciduous_tree:2021/5/16-2021/5/22(2021/5/22 휴일):deciduous_tree:
+
+
+
+1. 닷넷 MVC 패턴 공부
+2. mssql 공부 및 디비 분석
+
+
+
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
