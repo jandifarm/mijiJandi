@@ -194,6 +194,13 @@
 1. 닷넷 MVC 패턴 공부
 2. mssql 공부 및 디비 분석
 
+### :deciduous_tree:2021/5/23-2021/5/29(2021/5/29 휴일):deciduous_tree:
+
+
+
+1. mssql 프로시저 및 조건 생성 분석
+2. 닷넷mvc 파일 
+
 
 
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
