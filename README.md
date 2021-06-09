@@ -201,6 +201,13 @@
 1. mssql 프로시저 및 조건 생성 분석
 2. 닷넷mvc 파일 
 
+### :deciduous_tree:2021/5/30-2021/6/5(2021/6/5 휴일):deciduous_tree:
+
+
+
+1. javascript, jquery 공부
+2. 닷넷mvc 파일 
+
 
 
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
