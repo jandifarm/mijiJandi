@@ -208,7 +208,11 @@
 1. javascript, jquery 공부
 2. 닷넷mvc 파일 
 
+### :deciduous_tree:2021/6/6-2021/6/12(2021/6/12 휴일):deciduous_tree:
 
+
+
+1. mssql이랑 닷넷 연결 공부 
 
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
