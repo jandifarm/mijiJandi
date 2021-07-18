@@ -220,5 +220,14 @@
 
 1. mssql이랑 닷넷 연결 공부 
 
+...
+
+### :deciduous_tree:2021/7/18-2021/7/24(2021/7/24 휴일):deciduous_tree:
+
+
+
+1. asp.net 코드 분석
+2. mvc 
+
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
