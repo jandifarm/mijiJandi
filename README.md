@@ -236,5 +236,14 @@
 1. 프로젝트 
 2. mvc 
 
+...
+
+### :deciduous_tree:2021/8/15-2021/8/21(2021/8/15,21 휴일):deciduous_tree:
+
+
+
+1. 알고리즘 기초부터 다시 시작
+2. 리액트 슬슬 조금씩 해보기...
+
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
