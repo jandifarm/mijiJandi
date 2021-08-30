@@ -252,5 +252,12 @@
 1. 알고리즘 기초부터 다시 시작
 2. 정처기 공부 조금씩 
 
+### :deciduous_tree:2021/8/29-2021/9/4(2021/9/3,4 휴일):deciduous_tree:
+
+
+
+1. 알고리즘 기초부터 다시 시작
+2. 공부한 내용 복습 필요
+
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
