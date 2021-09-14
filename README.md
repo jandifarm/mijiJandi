@@ -267,5 +267,13 @@
 2. 공부한 내용 복습 필요
 3. 최종보고 ppt 작성 
 
+### :deciduous_tree:2021/9/12-2021/9/18(2021/9/17,18 휴일):deciduous_tree:
+
+
+
+1. 알고리즘 기초부터 다시 시작
+3. 최종보고 ppt 작성 및 피드백 정리
+
+
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
