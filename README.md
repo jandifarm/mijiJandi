@@ -274,6 +274,13 @@
 1. 알고리즘 기초부터 다시 시작
 3. 최종보고 ppt 작성 및 피드백 정리
 
+### :deciduous_tree:2021/9/26-2021/10/1(2021/9/30,1 휴일):deciduous_tree:
+
+
+1. 최종보고 ppt 작성 및 피드백 정리
+2. 포폴 정리
+3. 계획 세우기
+
 
 #### :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
